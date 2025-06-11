@@ -20,7 +20,7 @@ void Main()
     Console.WriteLine("Enter second number:");
     int number2 = Convert.ToInt32(Console.ReadLine());
 
-    CalculateNumbers(number1, number2);
+    CalculateNumbers(number1, number2); 
 }
 Main();
 // This program prompts the user to enter two numbers and then calculates and displays their sum, difference, product, and quotient.
